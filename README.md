@@ -1,8 +1,6 @@
+# Goker
 ![Always has been](meme.png)
 
-# Wait, Docker is just Linux?
-
-> "Always has been"
 
 A minimal container runtime implementation in Go.
 Basically just a wrapper around Linux namespaces and chroot.
