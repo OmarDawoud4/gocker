@@ -1,6 +1,4 @@
 # Goker
-![Always has been](meme.png)
-
 
 A minimal container runtime implementation in Go.
 Basically just a wrapper around Linux namespaces and chroot.
